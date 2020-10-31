@@ -20,11 +20,13 @@
   },
   "dependencies": {
     "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
     "mongoose": "^5.10.11",
     "path": "^0.12.7",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
     "react-router-dom": "^5.2.0"
   }
 }
