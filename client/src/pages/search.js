@@ -11,10 +11,10 @@ import BookDetail from "../components/BookDetails";
 class Search extends Component {
     state = {
         books: [],
-        // authors: [],
-        // description : "",
-        // image : "",
-        // link : "",
+        authors: [],
+        description: "",
+        image: "",
+        link: "",
         title: ""
     };
 

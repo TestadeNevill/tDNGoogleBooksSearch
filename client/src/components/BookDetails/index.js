@@ -10,7 +10,7 @@ const BookDetail = props => {
                 </div>
                 <div className="col-4">
                     <a href={props.link}
-                        target="_blank"
+                        target="_blank" rel="noopener noreferrer"
                         style={{
                             paddingLeft: 40,
                             paddingRight: 40,
